@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Product Catalog</title>
+    <link rel="stylesheet" href="css/styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="container">
+        <h1 class="site-title">Product Catalog</h1>
+        <p class="site-sub">Browse our curated product list</p>
+        <button id="theme-toggle" class="theme-toggle" aria-label="Toggle theme">🌙</button>
+      </div>
+    </header>
+
+    <main class="container">
+      <section class="controls" aria-label="Search and sort products">
+        <div class="search-group">
+          <label for="search" class="visually-hidden">Search products</label>
+          <input
+            id="search"
+            type="search"
+            placeholder="Search by name, slots or finish"
+            aria-label="Search products"
+          />
+        </div>
+
+        <div class="filters">
+          <label for="sort" class="visually-hidden">Sort products</label>
+          <select id="sort" aria-label="Sort products">
+            <option value="default">Sort: Relevance</option>
+            <option value="price-asc">Price: Low → High</option>
+            <option value="price-desc">Price: High → Low</option>
+            <option value="slots-asc">Slots: Low → High</option>
+            <option value="slots-desc">Slots: High → Low</option>
+          </select>
+        </div>
+      </section>
+
+      <section
+        id="products"
+        class="products-grid"
+        aria-live="polite"
+        aria-label="Product list"
+      >
+        <!-- Product cards injected here by JS -->
+      </section>
+
+      <div id="msg" role="status" class="msg" aria-hidden="true"></div>
+    </main>
+
+    <footer class="site-footer">
+      <div class="container footer-inner">
+        <p id="copyright"></p>
+      </div>
+    </footer>
+
+    <script src="js/main.js" defer></script>
+  </body>
+</html>

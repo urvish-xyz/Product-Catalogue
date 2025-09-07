@@ -1,0 +1,117 @@
+[
+    {
+        "id": 1,
+        "name": "Aluminum Watch Case – Watch Storage Box with Leather Pillows & EVA Foam – Travel & Organizer Case (3 Slots) (Regular)",
+        "price": 2270.00,
+        "old_price": 3500.00,
+        "slots": 6,
+        "finish": "Chrome",
+        "image": "https://m.media-amazon.com/images/I/61ge+wF-5KL._SL1280_.jpg",
+        "images": [
+            "https://m.media-amazon.com/images/I/61ge+wF-5KL._SL1280_.jpg",
+            "https://m.media-amazon.com/images/I/61EZEJTpZoL._SL1280_.jpg",
+            "https://m.media-amazon.com/images/I/51aX8wLRkjL._SL1280_.jpg"
+        ],
+        "description": "Premium aluminum watch storage case for 6 watches. Soft interior and secure clasp.",
+        "amazon": "",
+        "specifications": [
+            "Capacity: 6 watches",
+            "Material: Aluminum",
+            "Interior: Velvet lining",
+            "Dimensions: 25 x 18 x 8 cm",
+            "Colour: Chrome",
+            "Material: Aluminum, Acrylic, MDF, Steel",
+            "Style: Regular",
+            "Special Feature: Display with Confidence: Showcase your watches without exposing them to dust or damage, thanks to the sturdy acrylic window.Display with Confidence: Showcase your watches without exposing them to dust or damage, thanks to the sturdy acrylic window.",
+            "Recommended Uses For Product: Watch",
+            "Product Dimensions: 22D x 26W x 10H Centimeters",
+            "Target Audience: Men, Women",
+            "Shape: Rectangular",
+            "Finish Type:Chrome"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Aluminum Watch Case – Watch Box with Leather Pillows & EVA Foam – Travel & Organizer Case (6 Slots) (Transparent)",
+        "price": 2910.00,
+        "old_price": 4000.00,
+        "slots": 6,
+        "finish": "Chrome",
+        "image": "https://m.media-amazon.com/images/I/71Cz3KCWZcL._SL1500_.jpg",
+        "images": [
+            "https://m.media-amazon.com/images/I/71Cz3KCWZcL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81WEI-W16KL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81S3a19zrIL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81uyWn+RGpL._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/91kzR2x7x4L._SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/817k1j2GO6L._SL1500_.jpg"
+        ],
+        "description": "Premium aluminum watch storage case for 6 watches. Soft interior and secure clasp.",
+        "amazon": "",
+        "specifications": [
+            "Capacity: 6 watches",
+            "Material: Aluminum",
+            "Interior: Velvet lining",
+            "Dimensions: 25 x 18 x 8 cm",
+            "Colour: Chrome",
+            "Material: Aluminum, Acrylic, MDF, Steel",
+            "Style: Regular",
+            "Special Feature: Display with Confidence: Showcase your watches without exposing them to dust or damage, thanks to the sturdy acrylic window.Display with Confidence: Showcase your watches without exposing them to dust or damage, thanks to the sturdy acrylic window.",
+            "Recommended Uses For Product: Watch",
+            "Product Dimensions: 22D x 26W x 10H Centimeters",
+            "Target Audience: Men, Women",
+            "Shape: Rectangular",
+            "Finish Type:Chrome",
+            "✅ Premium Aluminum Construction – Lightweight yet durable anodized aluminum frame with chrome steel corners ensures long-lasting protection and elegant presentation.",
+            "🔍 Transparent Acrylic Display Lid – Easily view your watches without opening the box, ideal for showcasing your collection at home or in-store.",
+            "🛋️ Soft Leather Watch Pillows – Plush leather pillows hold your watches securely and preserve their shape over time.",
+            "🧼 Scratch-Resistant EVA Compartments – Each slot is lined with high-density EVA foam for extra grip and scratch prevention.",
+            "🔒 Portable & Lockable Design – Chrome-finished latches offer security, while the compact design makes it perfect for both storage and travel.",
+            "🎁 Perfect Gift for Watch Collectors – A sophisticated gift choice for birthdays, anniversaries, holidays, or Father’s Day."
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Bharat 10-Slot Metal Watch Case",
+        "price": 1299.00,
+        "old_price": 1599.00,
+        "slots": 10,
+        "finish": "Brushed Black",
+        "image": "https://m.media-amazon.com/images/I/51aX8wLRkjL._SL1280_.jpg",
+        "images": [
+            "https://m.media-amazon.com/images/I/51aX8wLRkjL._SL1280_.jpg",
+            "https://m.media-amazon.com/images/I/61def789jkl0._SL1280_.jpg",
+            "https://m.media-amazon.com/images/I/71mno123pqr4._SL1280_.jpg"
+        ],
+        "description": "Large capacity watch case with secure locks and stylish finish.",
+        "amazon": "",
+        "specifications": [
+            "Capacity: 10 watches",
+            "Material: Steel alloy",
+            "Interior: Suede cushions",
+            "Lock: Magnetic clasp"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Compact 2-Slot Leather Watch Wallet",
+        "price": 499.00,
+        "old_price": 599.00,
+        "slots": 2,
+        "finish": "Brown Leather",
+        "image": "https://m.media-amazon.com/images/I/51aX8wLRkjL._SL1280_.jpg",
+        "images": [
+            "https://m.media-amazon.com/images/I/51aX8wLRkjL._SL1280_.jpg",
+            "https://m.media-amazon.com/images/I/81stu456vwx8._SL1280_.jpg",
+            "https://m.media-amazon.com/images/I/91yza789bcd1._SL1280_.jpg"
+        ],
+        "description": "Portable leather wallet to keep 2 watches safe while traveling.",
+        "amazon": "",
+        "specifications": [
+            "Capacity: 2 watches",
+            "Material: Genuine leather",
+            "Dimensions: 15 x 9 x 4 cm",
+            "Warranty: 6 months"
+        ]
+    }
+]
