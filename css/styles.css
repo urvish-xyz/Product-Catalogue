@@ -1,6 +1,6 @@
 /* CSS Variables */
 :root {
-  --bg: #E1E5F8;
+  --bg: #e1e5f8;
   --text: #111;
   --muted: #666;
   --accent: #0b6cf2;
@@ -31,6 +31,8 @@ body {
   font-family: Inter, system-ui, Segoe UI, Roboto, "Helvetica Neue", Arial;
   background: var(--bg);
   color: var(--text, #111);
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
   -webkit-font-smoothing: antialiased;
 }
 .container {
@@ -65,6 +67,9 @@ body {
 .site-title {
   margin: 0;
   font-size: 1.25rem;
+}
+.site-title img {
+  height: 40px;
 }
 .site-sub {
   margin: 0;

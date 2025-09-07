@@ -279,6 +279,14 @@ function setTheme(theme) {
   document.documentElement.setAttribute("data-theme", theme);
   localStorage.setItem("theme", theme);
   themeToggle.textContent = theme === "dark" ? "☀️" : "🌙";
+  // Change logo based on theme
+  const logo = document.getElementById("site-logo");
+  if (logo) {
+    logo.src =
+      theme === "dark"
+        ? "images/urVish logo V dark.png"
+        : "images/urVish logo V light.png";
+  }
 }
 
 function toggleTheme() {
